@@ -800,7 +800,7 @@ grid 5.45 mm</description>
 </deviceset>
 <deviceset name="12V">
 <gates>
-<gate name="G$1" symbol="12V" x="0" y="2.54"/>
+<gate name="12V" symbol="12V" x="0" y="2.54"/>
 </gates>
 <devices>
 <device name="">

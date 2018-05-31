@@ -798,6 +798,18 @@ grid 5.45 mm</description>
 </device>
 </devices>
 </deviceset>
+<deviceset name="12V">
+<gates>
+<gate name="G$1" symbol="12V" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </drawing>

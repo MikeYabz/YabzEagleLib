@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.4.1">
+<eagle version="9.0.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -712,6 +712,18 @@ grid 5.45 mm</description>
 <connect gate="G$1" pin="VDDA" pad="5"/>
 <connect gate="G$1" pin="VSS" pad="15"/>
 </connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="3V3">
+<gates>
+<gate name="G$1" symbol="3V3" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="">
 <technologies>
 <technology name=""/>
 </technologies>
